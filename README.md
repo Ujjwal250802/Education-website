@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![Screenshot (169)](https://github.com/user-attachments/assets/8184091d-59ed-4e77-ae60-e4e1a60363c7)
+![Screenshot (59)](https://github.com/user-attachments/assets/459e0afa-a681-4d47-8fcf-aeee968df731)![Screenshot (173)](https://github.com/user-attachments/assets/4531d18a-1693-4824-b96b-9bd6d26c1ff5)
+
+
+![Screenshot (174)](https://github.com/user-attachments/assets/c7e9fc3f-4c78-4b2b-88ef-a3a39e86a8f5)
+
+![Screenshot (100)](https://github.com/user-attachments/assets/642e1861-19b3-442b-8d5e-e5c1530c4708)
+
+![Screenshot (175)](https://github.com/user-attachments/assets/1b1e1bad-fd9b-4295-b9b5-d01333defbe1)
+![Screenshot (176)](https://github.com/user-attachments/assets/f29f8b82-4d0e-4ebb-a7d9-b83169b80d33)![Screenshot (179)](https://github.com/user-attachments/assets/83039b42-62d7-4771-b22a-62bbdde7bfb9)
+![UJJWAL KAUSHIK](https://github.com/user-attachments/assets/229b01f2-4b9c-43de-8b47-87e754ece582)
+
+![Screenshot (177)](https://github.com/user-attachments/assets/b5922ecf-a46e-4fb3-80fc-2ac8ad41e88d)
